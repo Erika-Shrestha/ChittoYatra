@@ -23,8 +23,6 @@ Three clustering algorithms are compared:
 - **File Format:** Parquet → CSV
 - **After filtering:** Orders ≤ 120 min delivery duration (Q-Commerce compatible)
  
----
- 
 ## Results
  
 | Metric | K-Means (k=39) | DBSCAN (ε=0.15) | Hierarchical (h=20) |
@@ -33,4 +31,4 @@ Three clustering algorithms are compared:
 | Noise Handling | Forces all points into clusters | Filters 421 noise points | Groups noise into nearest branch |
 | Key Parameter | WCSS / Elbow | Epsilon | Dendrogram height |
  
-> **K-Means** achieved the highest Silhouette Score of **0.653** at k=39, making it the best performer for daily operational use.
+**K-Means** achieved the highest Silhouette Score of **0.653** at k=39, making it the best performer for daily operational use.
