@@ -1,7 +1,6 @@
 # ChittoYatra_23048598_ErikaShrestha
 
-![Uploading Screenshot 2026-03-21 225937.png…]()
-
+<img width="943" height="497" alt="Picture2" src="https://github.com/user-attachments/assets/f622f454-ee43-4d2e-851f-c7348d8ce02d" />
 
 **ChittoYatra** is an unsupervised machine learning system that optimizes **last-mile delivery** in Nepal's growing Q-Commerce sector. By clustering GPS-based delivery orders, the system enables smarter rider allocation and bulk order batching — reducing delivery times and operational costs.
  
