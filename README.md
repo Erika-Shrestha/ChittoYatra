@@ -1,4 +1,4 @@
-# ChittoYatra_23048598_ErikaShrestha
+# ChittoYatra - A place to make your delivery smoother
 
 <img width="943" height="497" alt="Picture2" src="https://github.com/user-attachments/assets/f622f454-ee43-4d2e-851f-c7348d8ce02d" />
 
